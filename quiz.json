@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Test your knowledge about famous Borises.",
+  "questions": [
+    {
+      "question": "Who wrote 'War and Peace'?",
+      "answers": ["Boris", "Leo", "Fyodor"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "UK Prime Minister in 2019?",
+      "answers": ["Boris", "David", "Theresa"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Russian tennis star?",
+      "answers": ["Boris", "Andre", "Pete"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Singer of 'Wind of Change'?",
+      "answers": ["Boris", "Klaus", "James"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Actor in 'GoldenEye'?",
+      "answers": ["Boris", "Sean", "Pierce"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Who is Boris Godunov?",
+      "answers": ["King", "Tsar", "Duke"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Famous chess player?",
+      "answers": ["Boris", "Garry", "Magnus"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Boris Pasternak?",
+      "answers": ["Author", "Singer", "Actor"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "A character in 'Rocky IV'?",
+      "answers": ["Boris", "Ivan", "Apollo"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Founder of Boris FX?",
+      "answers": ["Tom", "Boris", "John"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Boris Johnson's first name?",
+      "answers": ["Boris", "Alex", "David"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Russian President in 1991?",
+      "answers": ["Boris", "Vlad", "Dmitry"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Boris Karloff's fame?",
+      "answers": ["Actor", "Writer", "Singer"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Boris Becker's sport?",
+      "answers": ["Tennis", "Soccer", "Rugby"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Voice actor in 'Toy Story'?",
+      "answers": ["Boris", "Tom", "Tim"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Boris Yeltsin's role?",
+      "answers": ["PM", "President", "Minister"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Boris Vallejo's art?",
+      "answers": ["Sci-Fi", "Fantasy", "Abstract"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Who is Boris Godunov?",
+      "answers": ["Poet", "Composer", "Tsar"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Boris Spassky's game?",
+      "answers": ["Chess", "Poker", "Golf"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Boris Godunov's opera?",
+      "answers": ["Verdi", "Mozart", "Mussorgsky"],
+      "correctAnswerIndex": 2
+    }
+  ]
+}
